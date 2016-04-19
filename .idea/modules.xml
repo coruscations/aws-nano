@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aws-nano-core/aws-nano-core.iml" filepath="$PROJECT_DIR$/aws-nano-core/aws-nano-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-nano-parent.iml" filepath="$PROJECT_DIR$/aws-nano-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-nano-s3/aws-nano-s3.iml" filepath="$PROJECT_DIR$/aws-nano-s3/aws-nano-s3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-nano-s3-fs/aws-nano-s3-fs.iml" filepath="$PROJECT_DIR$/aws-nano-s3-fs/aws-nano-s3-fs.iml" />
+    </modules>
+  </component>
+</project>
